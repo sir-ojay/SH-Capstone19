@@ -1,0 +1,25 @@
+.page{
+    margin-left: 10px;
+}
+.homepage{
+    width: 100%;
+}
+.H{
+    color: rgba(37, 64, 216, 0.932);
+    font-size: 30px;
+    text-align: left;
+   font-family:'Times New Roman', Times, serif;
+   padding-left: 10px;
+}
+h2{
+    color: rgba(27, 107, 199, 0.705);
+}
+.images{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.img-1, .img-2, .img-3, .img-4{
+    width: 90%;
+    height: 85%;
+ object-fit:fill;
+}

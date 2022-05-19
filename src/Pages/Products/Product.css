@@ -1,0 +1,11 @@
+
+.elect{
+    display: flex;
+ flex-wrap: wrap;
+    padding: 10px 10px 20px 0px;
+   
+}
+p{text-align: center;}
+.Elect-image:hover{
+
+}
