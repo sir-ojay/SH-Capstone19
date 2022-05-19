@@ -1,10 +1,7 @@
 import React from 'react'
-import { Route, Routes } from 'react-router-dom'
-import Sidebar from '../../Components/sideBar/sideBar'
-import Team from '../Team/Team'
 import './Login.css'
 import { useState } from 'react'
-import Home from '../Home/Home'
+
 
 const Login = () => {
   const[form, setForm] = useState({
