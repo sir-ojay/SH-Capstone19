@@ -9,8 +9,8 @@ import { BsBook } from "react-icons/bs";
 
 
 
-import { Link, Route, Routes } from 'react-router-dom'
-import Team from '../../Pages/Team/Team';
+import { Link} from 'react-router-dom'
+
 
 const Sidebar = () => {
   return (
