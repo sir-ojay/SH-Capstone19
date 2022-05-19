@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/SH-Capstone19.git/static/css/main.f8143507.css",
+    "main.js": "/SH-Capstone19.git/static/js/main.1da853bf.js",
+    "static/media/profile2.jpg": "/SH-Capstone19.git/static/media/profile2.0ab485c18f3a192a4f10.jpg",
+    "static/media/profile3.jpg": "/SH-Capstone19.git/static/media/profile3.d8e87563dd15b4c51008.jpg",
+    "static/media/profile1.jpg": "/SH-Capstone19.git/static/media/profile1.d34c4bea2d36b3638b5d.jpg",
+    "static/media/profile6.jpg": "/SH-Capstone19.git/static/media/profile6.b45e089c79f47ef15686.jpg",
+    "static/media/istockphoto.jpg": "/SH-Capstone19.git/static/media/istockphoto.9e25870d2384688fa057.jpg",
+    "static/media/visa.jpg": "/SH-Capstone19.git/static/media/visa.14afdb44c3aa29778d9b.jpg",
+    "static/media/profile5.jpg": "/SH-Capstone19.git/static/media/profile5.a98a130f3305d400e8fa.jpg",
+    "static/media/graph.jpg": "/SH-Capstone19.git/static/media/graph.680925aa31e9e01aaa65.jpg",
+    "static/media/dell.png": "/SH-Capstone19.git/static/media/dell.387e527dc44e436a3be1.png",
+    "static/media/apple.png": "/SH-Capstone19.git/static/media/apple.f737a6a4f4b971d6207c.png",
+    "static/media/hp.png": "/SH-Capstone19.git/static/media/hp.c43b2ae19a53ac54ca50.png",
+    "static/media/intel.png": "/SH-Capstone19.git/static/media/intel.4cb418e721054a495317.png",
+    "static/media/lenovo.png": "/SH-Capstone19.git/static/media/lenovo.9d9f918df3fb1c2f8449.png",
+    "static/media/tablet.png": "/SH-Capstone19.git/static/media/tablet.0e38505cea22de045ce0.png",
+    "static/media/scanner.png": "/SH-Capstone19.git/static/media/scanner.86fa4733471ff276e42a.png",
+    "index.html": "/SH-Capstone19.git/index.html",
+    "main.f8143507.css.map": "/SH-Capstone19.git/static/css/main.f8143507.css.map",
+    "main.1da853bf.js.map": "/SH-Capstone19.git/static/js/main.1da853bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8143507.css",
+    "static/js/main.1da853bf.js"
+  ]
+}
