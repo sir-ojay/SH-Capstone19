@@ -6,10 +6,7 @@ import { BsPerson } from "react-icons/bs";
 import { BsPower } from "react-icons/bs";
 import { BsPeople } from "react-icons/bs";
 import { BsBook } from "react-icons/bs";
-
-
-
-import { Link} from 'react-router-dom'
+import { Link} from 'react-router-dom';
 
 
 const Sidebar = () => {
