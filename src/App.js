@@ -13,7 +13,7 @@ import Login from './Pages/Log in/Login';
 
 function App() {
   return (
-    <div>
+    <div className='App'>
      
      <BrowserRouter>
     
