@@ -1,35 +1,50 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
-*{
-    margin: 0;
+
+.sidebar {
+  min-width: 240px;
+  height: 100%;
+  background-color: rgb(13, 37, 85);
+  width: fit-content;
+  padding: 1em;
 }
-ul{
-    background-color: rgb(13, 37, 85);
-    width: 15%;
-    height: 100%;
-    float: left;
-    
+* {
+  margin: 0;
 }
-ul li{
-    list-style: none;
-    margin-block: 25%;
-    margin-inline: 3%;
-    font-size: 17px;
-    color: rgb(182, 188, 194);
-    font-weight: 500;
-    text-align: left;
+ul {
+  width: 100%;
+  height: 100%;
+  float: left;
+}
+ul li {
+  list-style: none;
+  padding: 1em 1em;
+  font-size: 17px;
+  color: rgb(182, 188, 194);
+  font-weight: 500;
+  text-align: left;
+  transition: 0.2s ease-in-out;
+  border-radius: 8px;
 }
 
-.logOut{
-   margin-top: 45%;
-   /* margin-top: 300px; */
+ul li:hover {
+  background: rgba(255, 255, 255, 1);
+  color: rgb(13, 37, 85);
+}
 
+.logOut {
+  margin-top: 45%;
+  /* margin-top: 300px; */
 }
-h1{
-    font-size: 24px;
-    color: whitesmoke;
+h1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 1.2em;
+  color: whitesmoke;
 }
-.icons{
-    font-size: 20px;
-    margin-right: 12px;
-    color: rgb(71, 139, 240) ;
+.icons {
+  font-size: 20px;
+  margin-right: 12px;
+  color: rgb(71, 139, 240);
+}
+.sidebar__brand:hover {
+    background: rgb(13, 37, 85);
 }
